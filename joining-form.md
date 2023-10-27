@@ -3,7 +3,7 @@
 - 
 # Social link
 - 
-# Why do you joining us?
+# Why do you want to join us?
 - 
 # Your Github Username
 -
